@@ -1463,38 +1463,6 @@ img.books-image {
     object-fit: cover;
 }
 
-/*----- Quotation Section
---------------------------------------------------------------*/
-#quotation .section-title.divider,
-#quotation .section-title.divider:after {
-    margin: 0 auto;
-}
-#quotation blockquote {
-    width: 40%;
-    margin: 0 auto;
-    margin-bottom: 180px;
-}
-#quotation q {
-    display: block;
-    font-size: 1.6em;
-    padding: 40px 0;
-}
-#quotation .author-name {
-    font-family: "Prata", Georgia,serif;
-    font-size: 1.4em;
-}
-@media screen and (max-width: 768px) {
-  #quotation blockquote {
-    width: 80%;
-  }
-}
-/*
-@media screen and (max-width: 1320px) {
-  #quotation blockquote {
-      width: 60%;
-  }
-}
-*/
 /*----- Special Offer Section
 --------------------------------------------------------------*/
 #special-offer .section-header {
