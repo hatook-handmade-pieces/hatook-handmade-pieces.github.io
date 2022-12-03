@@ -1200,38 +1200,6 @@ img.post-image {
     outline: 1px solid #D7d5cc;
 }
 
-/* -- Top Menu Part
---------------------------------------------------------------*/
-.top-content {
-    padding: 20px 0;
-    border-bottom: 1px solid #E0E0E0;
-}
-.social-links ul {
-    list-style: none;
-    display: flex;
-    width: 15%;
-}
-.social-links a {
-    color: var(--dark-text-color);
-    text-decoration: none;
-}
-.top-content li {
-    padding-right: 30px;
-}
-.top-content li:last-child {
-    padding-right: 0;
-}
-.top-content a {
-    color: #555;
-    text-decoration: none;
-}
-.top-content .right-element {
-    text-align: right;
-}
-.top-content .right-element .for-buy {
-    margin-right: 40px;
-} 
-
 /* - Search Form hover Effects
 ------------------------------------------------------------- */
 #header-wrap .action-menu {
